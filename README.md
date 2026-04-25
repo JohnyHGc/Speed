@@ -1,4 +1,9 @@
-<p align="center">
+<div id="paypal-container-D37JMF6PC3QBW"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "D37JMF6PC3QBW",
+  }).render("#paypal-container-D37JMF6PC3QBW")
+</script><p align="center">
   <img src="docs/res/github-graph.png">
 </p>
 
